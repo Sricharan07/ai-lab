@@ -1,0 +1,21 @@
+11. Implement Expectation-Maximization for HMM using python 
+
+12. Implement decision problem for any real world application.
+
+13. Implement reinforcement learning to train a game playing agent to win at a chess game
+
+14. Implement approximate inferences in Bayesian network.
+
+15. Write a program to implement Expectation-Maximization (EM) algorithm using python 16. Estimate the probability density function (PDF) of random variables using unknown parameters using Bayesian parameter estimation.. 
+
+17. Implement the statistical model that is used to describe the probabilistic relationship between
+
+sequence of observations and sequence of hidden states.
+
+18. Investigate the scalability of Bayesian parameter learning for large datasets and complex methods. Choose a large dataset and complex model, and use Bayesian parameter learning to estimate the parameters from the data.
+
+19. Implement policy based reinforcement learning python.
+
+20. Write a program to implement the naive Bayesian classifier for a sample dataset and compute the
+
+accuracy
